@@ -16,6 +16,8 @@ Over the course of this week we were able to create a functional application wit
 
 Link to site: [Covid-19 Vaccine Finder](https://igotyu.github.io/project-covid/).
 
+Collaborators: [Andrew Yu](https://github.com/iGotYu), [Juan Vasquez](https://github.com/jvprofits28).
+
 ![landing-screen](https://raw.githubusercontent.com/iGotYu/project-covid/develop/images/landing-screen.png)
 ![map-footer](https://raw.githubusercontent.com/iGotYu/project-covid/develop/images/map-footer.png)
 ![state-slector](https://raw.githubusercontent.com/iGotYu/project-covid/develop/images/state-selector.png)
