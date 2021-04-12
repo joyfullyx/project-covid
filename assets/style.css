@@ -1,0 +1,99 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  header,
+  footer {
+    width: 100vw;
+  }
+  
+  header nav.nav-header .nav-wrapper {
+    width: 70%;
+    margin: auto;
+  }
+  
+  main .white-space {
+    height: 400px;
+  }
+  
+  nav,
+  .page-footer {
+    background-color: #8e24aa;
+  }
+  
+  section select .state {
+    width: 40%;
+  }
+  
+  .container {
+    margin-bottom: 65px;
+  }
+  
+  .nav-wrapper {
+    z-index: 1;
+  }
+  
+  .carousel {
+    position: relative;
+    top: -145px;
+    height: 565px;
+  }
+  
+  .carousel .carousel-item {
+    width: 250px !important;
+  }
+  
+  .location-city {
+    display: inline-flex;
+  }
+  
+  .location-state {
+    display: inline-flex;
+  }
+  
+  .location-zip {
+    display: inline-flex;
+  }
+  
+  .find-btn .btn{
+    background-color: #7b1fa2;
+  }
+  
+  .visible {
+    display: inline-flex;
+  }
+  
+  #disclaimer {
+    color: red;
+    font-size: 12px;
+  }
+  
+  #footer-container {
+    width: 100%;
+  }
+  
+  #map-info {
+    margin-top: 35px;
+  }
+  
+  #map {
+    margin-top: 10px;
+    min-height: 500px;
+    min-width: 300px;
+  }
+  
+  .visible {
+    display: inline;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    nav .nav-wrapper .brand-logo {
+      font-size: 20px;
+      margin-left: 10px;
+      left: unset;
+    }
+  }
